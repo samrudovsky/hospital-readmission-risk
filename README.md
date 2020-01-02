@@ -26,7 +26,7 @@ In 2011, readmissions were responsible for over $41.3 billion dollars in cost. R
 
 ---
 ### Process
-- Analyze over 100,000 diabetic hospital encounters (patients for whom diabetes was a medical condition, even if it was not the primary reason for hospitalization). 
+- Using a data set from the UCI Machine Learning Repository, analyze over 100,000 diabetic hospital encounters (all patients had a diabetes diagnosis even if it was not the primary reason for hospitalization).
 
 - With hundreds of features including patient demographics + medical history and hospital tests, procedures, and discharge decisions, build a model that optimizes for recall and AUC.  In this context, a high false-positive rate is not detrimental.  Hospitals should be willing to be overly cautious with lower-risk patients in order to more robustly capture high-risk patients. 
 
@@ -38,9 +38,7 @@ In 2011, readmissions were responsible for over $41.3 billion dollars in cost. R
 ---
 ### Why isn't A1c measured more frequently? 
 
-- The A1c test is a simple blood test that measures one’s average blood glucose level over 3 months.
-
-- Regular monitoring of A1c is consistently linked with lower costs and lower readmission rates.
+- The A1c test is a simple blood test that measures one’s average blood glucose level over 3 months. Regular monitoring of A1c is consistently linked with lower costs and lower readmission rates.
 	 - Data analysis showed that just the *decision* to measure A1c led to lower readmission rates.
  
  **80% of readmitted patients did not receive the A1c test.**
