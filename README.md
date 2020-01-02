@@ -36,12 +36,12 @@ In 2011, readmissions were responsible for over $41.3 billion dollars in cost. R
 
 -  Patient medical history proved to be the most salient feature – patients who had previously been hospitalized – perhaps multiple times that year – were at an elevated risk to be readmitted within 30 days. 
 ---
-### Why isn't A1C measured more frequently? 
+### Why isn't A1c measured more frequently? 
 
--   The A1c test is a simple blood test that measures one’s average blood glucose level over 3 months.
+- The A1c test is a simple blood test that measures one’s average blood glucose level over 3 months.
 
- - Regular monitoring of A1c is consistently linked with lower costs and lower readmission rates.
-	 - That was reflected in the data set, as just the *decision* to measure A1c led to lower readmission rates.
+- Regular monitoring of A1c is consistently linked with lower costs and lower readmission rates.
+	 - Data analysis showed that just the *decision* to measure A1c led to lower readmission rates.
  
  **80% of readmitted patients did not receive the A1c test.**
 
