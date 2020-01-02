@@ -17,7 +17,7 @@
 
 2) Analyze data for any systemic issues in patient care that may increase the chances of readmission
 
-**How can doctors and medical staff leverage hospital encounters most effectively in order to avoid unnecessary readmissions**
+**How can doctors and medical staff leverage hospital encounters most effectively in order to avoid unnecessary readmissions?**
 
 ---
 ### Problem Statement
