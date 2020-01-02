@@ -17,7 +17,8 @@
 
 2) Analyze data for any systemic issues in patient care that may increase the chances of readmission
 
-*How can doctors and medical staff leverage hospital encounters most effectively in order to avoid unnecessary readmissions*
+**How can doctors and medical staff leverage hospital encounters most effectively in order to avoid unnecessary readmissions**
+
 ---
 ### Problem Statement
 A readmission is defined as a subsequent hospital encounter within 30 days of the original admission. The readmission rate for the general population is ~10% while the rate for diabetic patients is ~20%. This twofold increase can be largely attributed to the host of diabetes' comorbid conditions: high blood pressure, obesity, cardiovascular disease, and kidney disease.   
