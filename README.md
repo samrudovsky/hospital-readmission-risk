@@ -1,8 +1,8 @@
-## Classifying Hospital Readmission Risk in Diabetes Patients
+# Classifying Hospital Readmission Risk in Diabetes Patients
 
-### Project 3 – Metis Data Science Bootcamp  (Weeks 4-5)
+## Project 3 – Metis Data Science Bootcamp  (Weeks 4-5)
 
-**Technical Focus**
+### Technical Focus
 - Classification 
 	- Logistic regression 
 	- KNN
