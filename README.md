@@ -11,6 +11,8 @@
 	- Decision Tree
 	- Random Forest
 	- Gradient Boosting
+- Data Visualization
+	- Tableau
 ---
 ### Project Goals
 1) Provide a tool for doctors and hospital systems that flags patients with a high-risk of hospital readmission
