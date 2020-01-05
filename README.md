@@ -10,8 +10,7 @@
 	- SVM
 	- Decision Tree
 	- Random Forest
-	- Gradient Boosting
-	
+	- Gradient Boosting	
 - Data Visualization
 	- Tableau
 ---
