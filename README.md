@@ -45,3 +45,10 @@ In 2011, readmissions were responsible for over $41.3 billion dollars in cost. R
  **80% of readmitted patients did not receive the A1c test.**
 
 It is critical that doctors and hospital systems look beyond a patient's primary diagnosis. For many of the patients in this dataset, diabetes was *not* the primary diagnosis,  However, the administering of the A1c test (no matter the level!) was associated with lower readmission risks. The simple blood test is a valuable biomarker that can reveal insight into a patient's risk of diabetic complications. If we are serious about lower the rate of of avoidable readmissions, accounting for evident risk factors in a prevalent disease such as diabetes is a necessary place to start.
+
+---
+
+### Code -- Jupyter Notebooks
+
+- [notebooks/EDA.ipynb](notebooks/EDA.ipynb) – EDA
+- [notebooks/modeling.ipynb](notebooks/modeling.ipynb) – Modeling
